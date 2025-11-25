@@ -1,0 +1,16 @@
+{
+  "name": "projectbackend",
+  "version": "1.0.0",
+  "description": "a backend project ",
+  "keywords": [
+    "javaacript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Aditi Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
